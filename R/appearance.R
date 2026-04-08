@@ -33,7 +33,7 @@ theme_qk <- function(){
         family = font,            #font family
         size = 10),               #font size
       axis.text = element_text(              #axis text
-        family = font,            #axis famuly
+        family = font,            #axis family
         size = 9,                 #font size
         color=ac),                #font color       
     )
